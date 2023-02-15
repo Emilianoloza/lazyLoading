@@ -5,7 +5,6 @@ on:
     branches:
       - master
       - main
-      - origin
 
 jobs:
   build-deploy:
